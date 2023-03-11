@@ -1,0 +1,5 @@
+C:\Users\rasmu\Documents\MCUXpressoIDE_11.4.0_6237\workspace\1_kl25z_helper\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\rasmu\Documents\MCUXpressoIDE_11.4.0_6237\workspace\1_kl25z_helper\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+C:\Users\rasmu\Documents\MCUXpressoIDE_11.4.0_6237\workspace\1_kl25z_helper\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../pit_driver/pit_driver.c:24:9:Init_PIT	24	static
+../pit_driver/pit_driver.c:63:9:Control_PIT	16	static
