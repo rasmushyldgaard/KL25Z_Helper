@@ -1,4 +1,0 @@
-../source/gpio_driver/gpio_driver.c:23:6:InitGPIO_OUT	16	static
-../source/gpio_driver/gpio_driver.c:62:6:InitGPIO_IN	24	static
-../source/gpio_driver/gpio_driver.c:98:6:SetRGB	24	static
-../source/gpio_driver/gpio_driver.c:140:6:TogglePin	24	static
