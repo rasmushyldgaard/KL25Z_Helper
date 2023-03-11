@@ -3,7 +3,7 @@
  * 	Date: 11-03-2023
  * 	Author: rasmushyldgaard
  *
- * 	Simple LED blinker with color swapping program
+ * 	Simple LED blinker with color swapping application
  */
 
 #include <stdio.h>
